@@ -59,3 +59,25 @@ Welcome to the Flutter Interview Questions and Answers repository! This README p
 46. **Content Type: application/json**: Explain the significance of passing the content type as `application/json`.
 47. **Understanding Scaffold**: Define the purpose and usage of the Scaffold widget in Flutter.
 48. **Navigator vs. Router**: Compare and contrast the differences between the Navigator and Router in Flutter.
+
+### Additional Questions
+
+1. Difference between MaterialApp and WidgetApp.
+2. What are isolates, and what are the different types of isolates?
+3. How can we achieve multiple inheritance in Dart?
+4. What is Bloc, and what are states and events in the context of Flutter's Bloc architecture?
+5. Different types of architectural patterns used in Flutter app development?
+6. Scenario-based questions on abstract and interface concepts, along with their application in Bloc architecture.
+7. What is an event loop?
+8. Different types of streams.
+9. Difference between Stream and Future.
+10. What is the spread operator in Dart, and how can it be used?
+11. A walkthrough of a sample project.
+12. Is Dart multithreaded or single-threaded?
+13. What is the stable version of Flutter, and what are its features?
+14. What is Equatable, and how is the factory method used?
+15. Scenario-based questions on the Freezed generator package.
+16. Tree shaking algorithm.
+
+Please feel free to use these questions for your interviews or add more as needed. Good luck!
+
