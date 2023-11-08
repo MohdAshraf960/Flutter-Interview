@@ -23,7 +23,7 @@ Welcome to the Flutter Interview Questions and Answers repository! This README p
 13. **Local Database for Sessions**: Explain the local database used for maintaining user sessions.
 14. **Architecture Approach**: Describe the architecture pattern you follow for your projects.
 15. **State Management**: Share your preferred state management approach in Flutter and explain why.
-16. **Identifying State Management**: Discuss methods to identify the state management approach used in a Flutter app.
+16. **Difference between State Management**: Explain differnce between Provider and BLOC.
 17. **const vs. final vs. static**: Explain the differences between `const`, `final`, and `static` keywords in Dart.
 18. **Mixins and Inheritance**: Define mixins and how they achieve multiple inheritance.
 19. **Swapping Numbers**: Provide a program to swap two numbers without using a third variable.
